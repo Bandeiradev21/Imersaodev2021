@@ -1,0 +1,53 @@
+body {
+  background-color: #a24cb1;
+  font-familia: 'Open Sans';
+  
+}
+section {
+-webkit-box-shadow: 5px 9px 47px 8px rgba(15,3,30,0.51); 
+box-shadow: 5px 9px 47px 8px rgba(15,3,30,0.51);
+  display: black;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 6px;
+  
+}
+section h1{
+  fonte-size: 20px;
+  text-align:center;
+}
+section h2{
+  fonte-size: 20px;
+  text-align:center;
+}
+header{
+  background-image: url('https://veekun.com/static/pokedex/downloads/platinum-back.png');
+  background-size: cover;
+  heigth: 80px;
+  border-radius: 6px;
+}
+img{
+  width: 150px;
+  heigth: 150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-80px);
+  border: 6px solid white;
+}
+
+div {
+-webkit-box-shadow: 5px 5px 25px 1px rgba(101,34,107,0.56); 
+box-shadow: 5px 5px 25px 1px rgba(101,34,107,0.56);
+  padding: 15px;
+  border-radius: 6px;
+  background-color: #b2ebf2;
+  border: 1px solid black;
+    
+}

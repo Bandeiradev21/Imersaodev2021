@@ -1,0 +1,24 @@
+body {
+    background-image: url('https://betaimages.lopes.com.br/realestate/med/REB246327/The-Sun---Fachada.jpg');
+}
+h1 {
+  color:yellow; 
+  font-size:22pt; 
+  font-style:bolde; 
+  text-align:center;
+} 
+p {
+  color:pink; 
+  font-size:19pt; 
+  text-align:center;
+}
+
+img { 
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block; 
+    text-align:center;
+      
+  }
+}
+
